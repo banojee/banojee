@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Your Bano_Jee 👋
 
-<!--
-**banojee/banojee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSCS Student  
+💻 Aspiring Software Developer  
+🌱 Currently learning Web Development & Programming
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a BSCS student passionate about technology and software development.
+I'm currently building my programming skills through university projects
+and personal projects.
+
+## 🛠️ Skills
+
+- HTML
+- CSS
+- Microsoft Office
+- C language
+- Git & GitHub
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Web Development
+- Object-Oriented Programming
+
+## 📌 Projects
+
+🔹 Portfolio Website  
+🔹 University Projects  
+🔹 Web Development Projects
